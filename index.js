@@ -1,6 +1,6 @@
 const items = [
 {
-	name: 'tony stark',
+	name: 'Tony Stark',
 	alias: 'iron man'
 }
 ]
